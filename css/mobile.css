@@ -8,7 +8,7 @@
 
 /* Estilos base del proyecto */
 
-/* Root */
+/* Root Variables */
 :root {
     --bitcoin-orange:#F7931A;
     --soft-orange:#FFE9D5;
@@ -434,7 +434,6 @@ main {
     overflow-x: scroll;
     overscroll-behavior: contain;
     scroll-snap-type: x proximity;
-
 }
 
 .plans-container--card {
