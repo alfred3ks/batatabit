@@ -431,6 +431,7 @@ main {
 .plans-container--slider {
     display: flex;
     height: 316px;
+    overflow-y: hidden;
     overflow-x: scroll;
     overscroll-behavior: contain;
     scroll-snap-type: x proximity;
